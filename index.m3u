@@ -28,5 +28,5 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=5s2zuatipddo&app=1aca0aa1-06e3-
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=5s3069oep2m5&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 tvg-name="Discovery" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Discovery" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",Discovery
 https://live4pop03.kablowebtv.com/live/hls/4079/2500.m3u8
-#EXTINF:-1 tvg-name="natgeo" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_natgeo" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",natgeo
+#EXTINF:-1 tvg-name="Natgeo" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Natgeo" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",Natgeo
 https://live4pop03.kablowebtv.com/live/hls/4073/2500.m3u8
